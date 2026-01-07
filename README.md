@@ -19,12 +19,12 @@ Evaluate if legalisation has led to increased usage (as per hypothesis)
 Canadian GDP data
 --Sourced from Statistics Canada
 --Downloaded as .csv files, yearly
---Require cleansing via Python  -------WORK REQUIRED HERE----------
+--Require cleansing via Python  
 
 Cannabis Sales Data
 --Sourced from Statistics Canada
 --Downloaded as a single .csv file, covering 2021 to 2024 (inclusive)
---Require cleansing via Python  -------WORK REQUIRED HERE----------
+--Require cleansing via Python  
 
 Cannabis 2024 Survey
 --Sourced from Statistics Canada
